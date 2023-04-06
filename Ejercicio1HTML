@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introduccion a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <!--Este es mi cimentario de dos lineas-->
+        <!--Aprendiendo a documenar mi código con OpenBootcamp-->
+        <div>
+            <ol>
+                <li><a href="https://www.youtube.com/watch?v=mAeMzudATmc">Los genios - Hemos fracasado</a></li>
+                <li><a href="https://www.youtube.com/watch?v=mabZazSVLvA">La orquesta Raices de jauja y La orquesta tipica</a></li>
+                <li><a href="https://www.youtube.com/watch?v=CKsp-JO92fA">Explosion Cumbiera - Mix Segundo Rosero</a></li>
+            </ol>
+        </div>
+    </body>
+</html>
